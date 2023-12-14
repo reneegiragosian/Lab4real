@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "Hello World!"
+name="DevDojo"
+echo "Hi there $name"
+
+
